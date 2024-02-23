@@ -1,4 +1,5 @@
 
+
 * {
     box-sizing: border-box;
 }
@@ -35,5 +36,4 @@ body {
     height: 50px;
     width: 200px;
     padding: 15px;
-    box-sizing: border-box;
 }
