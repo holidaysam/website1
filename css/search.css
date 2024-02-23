@@ -42,3 +42,8 @@ body {
 .search .input:focus {
     outline: none;
 }
+
+.search.active .input {
+    width: 200px;
+    
+}
