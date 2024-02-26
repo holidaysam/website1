@@ -18,4 +18,5 @@ body {
     width: 100vw;
     background-color: pink;
     position: absolute;
+    z-index: -1;
 }
