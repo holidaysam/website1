@@ -16,7 +16,10 @@ body {
 .bg {
     height: 100vh;
     width: 100vw;
-    background-color: pink;
     position: absolute;
     z-index: -1;
+    background-image: url("images/beach.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
