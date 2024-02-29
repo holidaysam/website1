@@ -49,5 +49,13 @@ body {
 }
 
 @media (max-width: 480px) {
-    
+    .panel:nth-of-type(4) {
+        display: none;
+    }
+    .panel:nth-of-type(5) {
+        display: none;
+    }
+    .container {
+        width: 100vw;
+    }
 }
