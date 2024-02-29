@@ -9,4 +9,10 @@ body {
 
 h1 {
     color: LightCoral;
+    font-size: 38px;
+}
+
+a {
+    color: LightPink;
+    font-size: 24px;
 }
