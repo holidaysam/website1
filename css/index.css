@@ -3,12 +3,12 @@
 
 head {
     font-family: "Patrick Hand", cursive;
+    color: LightCoral;
 }
 
 body {
     background-color: FloralWhite;
     height: 100vh;
-    display: flex;
-    margin: 0;
     font-family: "Patrick Hand", cursive;
+    font-size: 24px;
 }
