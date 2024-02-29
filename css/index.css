@@ -2,5 +2,7 @@
 
 body {
     background-color: FloralWhite;
-    
+    height: 100vh;
+    display: flex;
+    margin: 0;
 }
