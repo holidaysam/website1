@@ -1,4 +1,6 @@
-
+* {
+    box-sizing: border-box;
+}
 
 body {
     height: 100vh;
@@ -6,5 +8,13 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0;
-    
+    background-color: DarkCyan;
+}
+
+.btn {
+    background-color: cyan;
+    border: none;
+    cursor: pointer;
+    padding: 20px;
+    font: 
 }
