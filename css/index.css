@@ -33,8 +33,23 @@ body {
     z-index: -2;
 }
 
-a {
-    color: LightPink;
-    font-size: 24px;
-    text-decoration: none;
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    z-index: -1;
+}
+
+.hero h1 {
+    font-size: 46px;
+    margin: 0 0 20px;
+}
+
+.hero p {
+    font-size: 20px;
+    letter-spacing: 1px;
 }
